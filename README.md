@@ -18,15 +18,13 @@
 | Proyecto | Stack | Tipo | Detalle |
 |---|---|---|---|
 | **SusuTwin** | Supabase · pgvector · TypeScript | Side project | [Case study](projects/susutwin.md) |
-| **Groupay** | Expo · React Native · TypeScript | Side project | [Case study](projects/groupay.md) |
 
 ## 🎓 Académicos
 
 | Proyecto | Stack | Curso | Detalle |
 |---|---|---|---|
 | **UR-OS Process Scheduler** | Java 17 (JSE) | Sistemas Operativos · U. Rosario | [Case study](projects/ur-os.md) |
-| **Algoritmos Avanzados** | C++ | Tec de Monterrey | [Case study](projects/algoritmos-avanzados.md) |
-| **Oscars** | — | (proyecto académico) | [Case study](projects/oscars.md) |
+| **Suffix Array (Algoritmos Avanzados)** | C++ | Algoritmos Avanzados · Tec de Monterrey | [Case study](projects/algoritmos-avanzados.md) |
 
 ---
 
