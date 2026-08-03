@@ -61,6 +61,7 @@ QNexus consolida todo en una sola PWA con motor laboral colombiano integrado.
 - **TOTP en tótem de asistencia**: rotación de códigos cada N segundos hace imposible compartir credenciales fuera del sitio físico.
 - **Simheuristics para el cronograma**: Monte Carlo estima la distribución real de plazos (no una fecha "optimista" única) y un GA busca la secuencia de actividades que minimiza el P80.
 - **Hardening de seguridad server-side**: REVOKE de `anon` sobre funciones `SECURITY DEFINER`, guards presupuestales y máquinas de estado en RPCs — las reglas de negocio críticas no viven en el cliente.
+- **Desarrollo RAG-First**: todo el monorepo se indexa en [SusuRAG](susurag.md), un motor de memoria semántica propio que los agentes de código consultan por MCP antes de escribir.
 
 ## Estado actual
 

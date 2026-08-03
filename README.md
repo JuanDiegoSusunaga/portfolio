@@ -17,6 +17,7 @@
 
 | Proyecto | Stack | Tipo | Detalle |
 |---|---|---|---|
+| **SusuRAG** | TypeScript · MCP · Supabase + pgvector · Gemini | Motor RAG para agentes de código | [Case study](projects/susurag.md) |
 | **Crypto Intelligence Engine** | Python 3.12 · DuckDB · XGBoost · GCP | Trading cuantitativo (paper) | [Case study](projects/crypto-engine.md) |
 | **SECOP SUSU** | Python · Polars · Postgres + pgvector | Análisis de datos abiertos | [Case study](projects/secop-susu.md) |
 | **SusuTwin** | Supabase · pgvector · TypeScript | Side project | [Case study](projects/susutwin.md) |
